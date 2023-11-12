@@ -1,7 +1,5 @@
 # Sparkify Project
-A digital music service like Spotify and Youtube Music is called Sparkify. Users can subscribe, listen to their favorite music for free (with advertisements) or with pay, add friends or songs to their playlists,…
-
-In this project, we will manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn. We will use Spark MLlib to build machine learning models with large datasets.
+Sparkify is a digital music service similar to Spotify and YouTube Music. Users can subscribe for free with ads or choose a paid subscription. They can create playlists, add friends, and enjoy their favorite music. The project aims to use Spark and MLlib to analyze large datasets, engineer features, and build machine learning models to predict churn.
 
 ## Instructions
 The code is saved in ```.ipynb``` file and can be run with any tool that support this file format. These are libraries that is used in this project:
@@ -17,7 +15,7 @@ For the code, please check the notebook ```Sparkify.ipynb```.
 
 The findings of this project already published follow the link:
 
-https://medium.com/@tranhoang030998/sparkify-the-prediction-of-customer-churn-f9275e262562
+https://medium.com/@phungthithuydung1403/churn-customer-prediction-sparkify-d084d1669846
 
 ## Data
 
